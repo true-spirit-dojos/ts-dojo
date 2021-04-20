@@ -35,8 +35,12 @@ Solutions
 
 # Part 4 Reactive Programming
 Slides
+* [RxJS Basics - Live Coding](https://stackblitz.com/edit/slide-rxjs-basics-live-coding)
+* [RxJS Basics - Full Code](https://stackblitz.com/edit/slide-rxjs-basics-full-code)
 
 Exercises
+* [RxJS Basics](https://stackblitz.com/edit/exercise-rxjs-basics)
 * [RxJS Animals](https://stackblitz.com/edit/exercise-rxjs-animals?file=index.ts) - Implementiere die drei TODOs in `index.js`
+
 Solutions
 * [RxJS Animals](https://stackblitz.com/edit/solution-rxjs-animals?file=index.ts)
