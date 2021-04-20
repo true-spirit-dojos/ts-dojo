@@ -8,6 +8,8 @@ Slides
 
 Exercises
 * [Types basic](https://stackblitz.com/edit/typescript-dojo-exercise-types-basic)
-
+* [Types union](https://stackblitz.com/edit/typescript-dojo-exercise-types-union)
+* 
 Solutions
 * [Types basic](https://stackblitz.com/edit/typescript-dojo-solution-types-basic)
+* [Types union](https://stackblitz.com/edit/typescript-dojo-solution-types-union)
