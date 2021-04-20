@@ -7,7 +7,7 @@ Slides
 * [Types](https://stackblitz.com/edit/typescript-dojo-slide-types)
 
 Exercises
-* [Types](https://stackblitz.com/edit/typescript-dojo-exercise-types)
+* [Types interface](https://stackblitz.com/edit/typescript-dojo-exercise-types)
 
 Solutions
-* [Types](https://stackblitz.com/edit/typescript-dojo-exercise-1-solution)
+* [Types interface](https://stackblitz.com/edit/typescript-dojo-exercise-1-solution)
