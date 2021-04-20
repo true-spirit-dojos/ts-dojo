@@ -39,8 +39,9 @@ Slides
 * [RxJS Basics - Full Code](https://stackblitz.com/edit/slide-rxjs-basics-full-code)
 
 Exercises
-* [RxJS Basics](https://stackblitz.com/edit/exercise-rxjs-basics)
+* [RxJS Basics](https://stackblitz.com/edit/exercise-rxjs-basics) - Tipp: lass dich von den unbenutzten Imports am Anfang der Datei inspirieren
 * [RxJS Animals](https://stackblitz.com/edit/exercise-rxjs-animals?file=index.ts) - Implementiere die drei TODOs in `index.js`
 
 Solutions
+* [RxJS Basics](https://stackblitz.com/edit/solution-rxjs-basics)
 * [RxJS Animals](https://stackblitz.com/edit/solution-rxjs-animals?file=index.ts)
