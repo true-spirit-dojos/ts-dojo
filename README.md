@@ -1,5 +1,6 @@
 # ts-dojo
 Typescript Dojo
+[Cheatsheet](https://rmolinamir.github.io/typescript-cheatsheet)
 
 # Part 1 Typescript Intro
 Slides
