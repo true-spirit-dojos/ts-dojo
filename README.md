@@ -27,7 +27,7 @@ Exercises
 * [OOP basic](https://stackblitz.com/edit/typescript-dojo-exercise-oop-basic)
 * [Class and interface](https://stackblitz.com/edit/typescript-dojo-exercise-class-and-interface)
 * [Canvas](https://stackblitz.com/edit/typescript-dojo-exercise-oop-advanced)
-* 
+
 Solutions
 * [OOP basic](https://stackblitz.com/edit/typescript-dojo-solution-oop-basic)
 * [Class and interface](https://stackblitz.com/edit/typescript-dojo-solution-class-and-interface)
