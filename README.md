@@ -8,6 +8,7 @@ Slides
 * [Types](https://stackblitz.com/edit/typescript-dojo-slide-types)
 
 Exercises
+* [Intro](https://stackblitz.com/edit/typescript-dojo-exercise-intro)
 * [Types basic](https://stackblitz.com/edit/typescript-dojo-exercise-types-basic)
 * [Types union](https://stackblitz.com/edit/typescript-dojo-exercise-types-union)
 
