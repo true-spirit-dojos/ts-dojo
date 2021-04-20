@@ -26,8 +26,10 @@ Slides
 Exercises
 * [OOP basic](https://stackblitz.com/edit/typescript-dojo-exercise-oop-basic)
 * [Class and interface](https://stackblitz.com/edit/typescript-dojo-exercise-class-and-interface)
-
+* [Canvas](https://stackblitz.com/edit/typescript-dojo-exercise-oop-advanced)
+* 
 Solutions
-* [Types basic](https://stackblitz.com/edit/typescript-dojo-solution-types-basic)
-* [Types union](https://stackblitz.com/edit/typescript-dojo-solution-types-union)
+* [OOP basic](https://stackblitz.com/edit/typescript-dojo-solution-oop-basic)
+* [Class and interface](https://stackblitz.com/edit/typescript-dojo-solution-class-and-interface)
+* [Canvas](https://stackblitz.com/edit/typescript-dojo-solution-oop-advanced)
 
