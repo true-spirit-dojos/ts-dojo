@@ -33,3 +33,10 @@ Solutions
 * [Class and interface](https://stackblitz.com/edit/typescript-dojo-solution-class-and-interface)
 * [Canvas](https://stackblitz.com/edit/typescript-dojo-solution-oop-advanced)
 
+# Part 4 Reactive Programming
+Slides
+
+Exercises
+* [RxJS Animals](https://stackblitz.com/edit/exercise-rxjs-animals?file=index.ts) - Implementiere die drei TODOs in `index.js`
+Solutions
+* [RxJS Animals](https://stackblitz.com/edit/solution-rxjs-animals?file=index.ts)
