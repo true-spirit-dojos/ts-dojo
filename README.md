@@ -16,7 +16,7 @@ Solutions
 * [Types union](https://stackblitz.com/edit/typescript-dojo-solution-types-union)
 
 
-# Part 3 Advaced typescript
+# Part 3 Advanced typescript
 Slides
 * [Classes](https://stackblitz.com/edit/typescript-dojo-slide-oop)
 * [Inheritance](https://stackblitz.com/edit/typescript-dojo-slide-oop-advanced)
