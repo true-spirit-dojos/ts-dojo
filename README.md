@@ -16,6 +16,15 @@ Solutions
 * [Types basic](https://stackblitz.com/edit/typescript-dojo-solution-types-basic)
 * [Types union](https://stackblitz.com/edit/typescript-dojo-solution-types-union)
 
+# Part 2 Testing
+Slides
+* [Testing Frameworks](https://stackblitz.com/edit/slide-jasmine?file=slides.md)
+
+Exercises
+* [Testing with Jasmine](https://stackblitz.com/edit/exercise-jasmine?file=src%2Fapp%2Fapp.component.spec.ts)
+
+Solutions
+* [Testing with Jasmine](https://stackblitz.com/edit/solution-jasmine?file=src%2Fapp%2Fapp.component.spec.ts)
 
 # Part 3 Advanced typescript
 Slides
