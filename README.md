@@ -57,3 +57,6 @@ Exercises
 Solutions
 * [RxJS Basics](https://stackblitz.com/edit/solution-rxjs-basics)
 * [RxJS Animals](https://stackblitz.com/edit/solution-rxjs-animals?file=index.ts)
+
+# Hands-On Rooms
+* [Room 5](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NzNiNjRmYzEtZmE2MC00ZjJiLTkyNGUtNDc4NzJjNWIyZGE5%40thread.v2/0?context=%7b%22Tid%22%3a%22a1a72d9c-49e6-4f6d-9af6-5aafa1183bfd%22%2c%22Oid%22%3a%229528a55e-27e7-4879-85a2-bcd8583eae76%22%7d)
