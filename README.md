@@ -34,10 +34,10 @@ Solutions
 
 # Part 3 Testing
 Slides
-* [Examples](https://stackblitz.com/edit/slide-jasmine?file=src%2Fapp%2Fapp.component.spec.ts)
-* [Test Tool Types](https://stackblitz.com/edit/slide-jasmine?file=2-test-tool-types.md)
-* [Comparison](https://stackblitz.com/edit/slide-jasmine?file=3-comparison.md)
 * [Testing Framework Overview](https://2020.stateofjs.com/en-US/technologies/testing/)
+* [Comparison](https://stackblitz.com/edit/slide-jasmine?file=3-comparison.md)
+* [Test Tool Types](https://stackblitz.com/edit/slide-jasmine?file=2-test-tool-types.md)
+* [Examples](https://stackblitz.com/edit/slide-jasmine?file=src%2Fapp%2Fapp.component.spec.ts)
 
 Exercises
 * [Testing with Jasmine](https://stackblitz.com/edit/exercise-jasmine?file=src%2Fapp%2Fapp.component.spec.ts)
