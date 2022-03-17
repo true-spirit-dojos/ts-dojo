@@ -34,7 +34,7 @@ Solutions
 
 # Part 3 Testing
 Slides
-* [Testing Framework Overview](https://2020.stateofjs.com/en-US/technologies/testing/)
+* [Testing Framework Overview](https://2021.stateofjs.com/en-US/libraries/testing)
 * [Test Tool Types](https://stackblitz.com/edit/slide-jasmine?file=2-test-tool-types.md)
 * [Comparison](https://stackblitz.com/edit/slide-jasmine?file=3-comparison.md)
 * [Examples](https://stackblitz.com/edit/slide-jasmine?file=src%2Fapp%2Fapp.component.spec.ts)
