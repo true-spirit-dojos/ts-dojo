@@ -5,6 +5,7 @@ Typescript Dojo
 # Part 1 Typescript Intro
 Local Setup
 * [ts-setup.adoc](https://github.com/true-spirit-dojos/ts-dojo/blob/main/ts-setup.adoc)
+
 Slides
 * [Js vs Ts](https://stackblitz.com/edit/typescript-dojo-slide-intro)
 * [Types](https://stackblitz.com/edit/typescript-dojo-slide-types)
