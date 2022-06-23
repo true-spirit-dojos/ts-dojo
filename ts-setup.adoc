@@ -3,24 +3,58 @@
 == TypeScript
 
 Run in command line
-```
+----
 mkdir <project-dir>
 cd <project-dir>
 npm i -S typescript
-```
+----
 
 Start VS Code
 
-```
+----
 code .
-```
+----
 
 Add https://www.typescriptlang.org/tsconfig[tsconfig.json]:
 
-```
+----
 npx tsc --init
-```
+----
 
 Set `outDir` to `./build`
 
+Run `tsc`, then add source file in `src` and run `tsc` again.
+
 Add `build` script to `package.json`
+
+== ESLint
+
+Install and configure
+----
+npm i -S eslint
+npm init @eslint/config
+----
+
+Lint files
+----
+npx eslint src/*
+----
+
+Fix problems automatically
+----
+npx eslint --fix src/*
+----
+
+== Prettier
+
+Install and configure
+----
+npm i -S prettier
+echo {} > .prettierrc.json
+echo build > .prettierignore
+----
+
+Format code
+----
+npx prettier --write src
+----
