@@ -1,0 +1,26 @@
+= How to Set Up a TypeScript Project from Scratch
+
+== TypeScript
+
+Run in command line
+```
+mkdir <project-dir>
+cd <project-dir>
+npm i -S typescript
+```
+
+Start VS Code
+
+```
+code .
+```
+
+Add https://www.typescriptlang.org/tsconfig[tsconfig.json]:
+
+```
+npx tsc --init
+```
+
+Set `outDir` to `./build`
+
+Add `build` script to `package.json`
