@@ -6,7 +6,7 @@ Run in command line
 ----
 mkdir <project-dir>
 cd <project-dir>
-npm i -S typescript
+npm i -D typescript
 ----
 
 Start VS Code
@@ -31,7 +31,7 @@ Add `build` script to `package.json`
 
 Install and configure
 ----
-npm i -S eslint
+npm i -D eslint
 npm init @eslint/config
 ----
 
@@ -49,7 +49,7 @@ npx eslint --fix src/*
 
 Install and configure
 ----
-npm i -S prettier
+npm i -D prettier
 echo {} > .prettierrc.json
 echo build > .prettierignore
 ----
