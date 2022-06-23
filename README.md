@@ -8,7 +8,7 @@ Local Setup
 
 Slides
 * [Js vs Ts](https://stackblitz.com/edit/typescript-dojo-slide-intro)
-* [Types](https://stackblitz.com/edit/typescript-dojo-slide-types)
+* [Types](https://stackblitz.com/edit/typescript-dojo-slide-types-2sgb4x)
 
 Exercises
 * [Intro](https://stackblitz.com/edit/typescript-dojo-exercise-intro)
