@@ -63,8 +63,8 @@ Solutions
 
 # Hands-On Rooms
 * [Room 0](https://teams.microsoft.com/l/meetup-join/19%3ameeting_OGNlNjk2MzUtNTVhNC00Mzc3LTgwMzAtN2UwYWYxZjhiOGE5%40thread.v2/0?context=%7b%22Tid%22%3a%22a1a72d9c-49e6-4f6d-9af6-5aafa1183bfd%22%2c%22Oid%22%3a%225dc2811e-9f89-4245-9cf3-8c591ffbfc44%22%7d)
-* [Room 1]()
-* [Room 2]()
-* [Room 3]()
-* [Room 4]()
-* [Room 5]()
+* [Room 1](https://teams.microsoft.com/l/meetup-join/19%3ameeting_OTg2NDllYjItMmNkMy00YTAyLThkZmQtYzJlYTliNmIyNDIw%40thread.v2/0?context=%7b%22Tid%22%3a%22a1a72d9c-49e6-4f6d-9af6-5aafa1183bfd%22%2c%22Oid%22%3a%225dc2811e-9f89-4245-9cf3-8c591ffbfc44%22%7d)
+* [Room 2](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlMzFkMTctNzViMC00NmU0LTgyMWQtMmIzZjI2OWIwYTJm%40thread.v2/0?context=%7b%22Tid%22%3a%22a1a72d9c-49e6-4f6d-9af6-5aafa1183bfd%22%2c%22Oid%22%3a%225dc2811e-9f89-4245-9cf3-8c591ffbfc44%22%7d)
+* [Room 3](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MmEzZDNlZmYtODk1Yi00ZGY1LWFkZTEtZmI5MTM2MjhiMWZm%40thread.v2/0?context=%7b%22Tid%22%3a%22a1a72d9c-49e6-4f6d-9af6-5aafa1183bfd%22%2c%22Oid%22%3a%225dc2811e-9f89-4245-9cf3-8c591ffbfc44%22%7d)
+* [Room 4](https://teams.microsoft.com/l/meetup-join/19:meeting_OGVjMTAwYTQtMWJkMS00MzJkLThiNGQtMzU1Y2M4ODFiZjc3@thread.v2/0?context=%7B%22Tid%22:%22a1a72d9c-49e6-4f6d-9af6-5aafa1183bfd%22,%22Oid%22:%225dc2811e-9f89-4245-9cf3-8c591ffbfc44%22%7D)
+* [Room 5](https://teams.microsoft.com/l/meetup-join/19%3ameeting_YmZmOGMyOWUtZjAxNS00NTE5LWI5OTUtNjc0NGI2NjVlNzIz%40thread.v2/0?context=%7b%22Tid%22%3a%22a1a72d9c-49e6-4f6d-9af6-5aafa1183bfd%22%2c%22Oid%22%3a%225dc2811e-9f89-4245-9cf3-8c591ffbfc44%22%7d)
