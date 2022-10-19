@@ -62,9 +62,9 @@ Solutions
 * [RxJS Animals](https://stackblitz.com/edit/solution-rxjs-animals?file=index.ts)
 
 # Hands-On Rooms
-* [Room 0](https://teams.microsoft.com/l/meetup-join/19%3ameeting_N2E4NWI2ODgtM2ZlNy00YjQ1LWI0MWEtYmI0YWVmNjRhMzYz%40thread.v2/0?context=%7b%22Tid%22%3a%22a1a72d9c-49e6-4f6d-9af6-5aafa1183bfd%22%2c%22Oid%22%3a%225dc2811e-9f89-4245-9cf3-8c591ffbfc44%22%7d)
-* [Room 1](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NDY3NWM5MmUtNmNlYi00ZDBhLWE1MzctZmJjODU1MjBmY2Q2%40thread.v2/0?context=%7b%22Tid%22%3a%22a1a72d9c-49e6-4f6d-9af6-5aafa1183bfd%22%2c%22Oid%22%3a%225dc2811e-9f89-4245-9cf3-8c591ffbfc44%22%7d)
-* [Room 2](https://teams.microsoft.com/l/meetup-join/19%3ameeting_OWIxZTVkMjktNDcyMy00NDU0LThhMTUtN2RkZDMzOWEyYjFk%40thread.v2/0?context=%7b%22Tid%22%3a%22a1a72d9c-49e6-4f6d-9af6-5aafa1183bfd%22%2c%22Oid%22%3a%225dc2811e-9f89-4245-9cf3-8c591ffbfc44%22%7d)
-* [Room 3](https://teams.microsoft.com/l/meetup-join/19%3ameeting_OGMxMGZiNmQtYjRkZi00MGNhLWFkODQtZGRkZWU2OWU5YzBh%40thread.v2/0?context=%7b%22Tid%22%3a%22a1a72d9c-49e6-4f6d-9af6-5aafa1183bfd%22%2c%22Oid%22%3a%225dc2811e-9f89-4245-9cf3-8c591ffbfc44%22%7d)
-* [Room 4](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTc3YTk5NjYtN2MzNS00YTBjLWJkZjItMGI2NWYyMTc3MDA1%40thread.v2/0?context=%7b%22Tid%22%3a%22a1a72d9c-49e6-4f6d-9af6-5aafa1183bfd%22%2c%22Oid%22%3a%225dc2811e-9f89-4245-9cf3-8c591ffbfc44%22%7d)
-* [Room 5](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NjdkMDMzNDAtZjNlYS00ZDYyLWIyZTgtOWNmMzMyZDdlNjEx%40thread.v2/0?context=%7b%22Tid%22%3a%22a1a72d9c-49e6-4f6d-9af6-5aafa1183bfd%22%2c%22Oid%22%3a%225dc2811e-9f89-4245-9cf3-8c591ffbfc44%22%7d)
+* [Room 0](https://teams.microsoft.com/l/meetup-join/19%3ameeting_OGNlNjk2MzUtNTVhNC00Mzc3LTgwMzAtN2UwYWYxZjhiOGE5%40thread.v2/0?context=%7b%22Tid%22%3a%22a1a72d9c-49e6-4f6d-9af6-5aafa1183bfd%22%2c%22Oid%22%3a%225dc2811e-9f89-4245-9cf3-8c591ffbfc44%22%7d)
+* [Room 1]()
+* [Room 2]()
+* [Room 3]()
+* [Room 4]()
+* [Room 5]()
