@@ -43,7 +43,7 @@ Slides
 * [Examples](https://stackblitz.com/edit/slide-jasmine?file=src%2Fapp%2Fapp.component.spec.ts)
 
 Exercises
-* [Testing with Jasmine](https://stackblitz.com/edit/exercise-jasmine?file=src%2Fapp%2Fapp.component.spec.ts)
+* [Testing with Jasmine with TDD Touch](https://stackblitz.com/edit/exercise-jasmine-ygfqe9?file=src%2Fapp%2Fapp.component.spec.ts)
 
 Solutions
 * [Testing with Jasmine](https://stackblitz.com/edit/solution-jasmine?file=src%2Fapp%2Fapp.component.spec.ts)
