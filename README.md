@@ -40,7 +40,7 @@ Slides
 * [Testing Framework Overview](https://2021.stateofjs.com/en-US/libraries/testing)
 * [Test Tool Types](https://stackblitz.com/edit/slide-jasmine?file=2-test-tool-types.md)
 * [Comparison](https://stackblitz.com/edit/slide-jasmine?file=3-comparison.md)
-* [Examples](https://stackblitz.com/edit/slide-jasmine?file=src%2Fapp%2Fapp.component.spec.ts)
+* [Examples](https://stackblitz.com/edit/slide-jasmine?file=src%2Fapp%2Fapp.component.spec.ts) ([3 Rules of TDD](http://butunclebob.com/ArticleS.UncleBob.TheThreeRulesOfTdd))
 
 Exercises
 * [Testing with Jasmine with TDD Touch](https://stackblitz.com/edit/exercise-jasmine-ygfqe9?file=src%2Fapp%2Fapp.component.spec.ts)
